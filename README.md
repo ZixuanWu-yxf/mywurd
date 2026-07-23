@@ -1,0 +1,2 @@
+# mywurd
+Daily digest notes
